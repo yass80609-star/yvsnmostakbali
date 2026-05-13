@@ -1,0 +1,4 @@
+[build]
+  base = "Moustakbali-main/Moustakbali/frontend"
+  publish = "dist"
+  command = "npm run build"
